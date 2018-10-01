@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\MetodoDeFalsaPosicion\MetodoDeFalsaPosicion\bin\Debug\MetodoDeFalsaPosicion.exe.config
+C:\Users\DELL\Documents\MetodoDeFalsaPosicion\MetodoDeFalsaPosicion\bin\Debug\MetodoDeFalsaPosicion.exe
+C:\Users\DELL\Documents\MetodoDeFalsaPosicion\MetodoDeFalsaPosicion\bin\Debug\MetodoDeFalsaPosicion.pdb
+C:\Users\DELL\Documents\MetodoDeFalsaPosicion\MetodoDeFalsaPosicion\obj\Debug\MetodoDeFalsaPosicion.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\MetodoDeFalsaPosicion\MetodoDeFalsaPosicion\obj\Debug\MetodoDeFalsaPosicion.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\MetodoDeFalsaPosicion\MetodoDeFalsaPosicion\obj\Debug\MetodoDeFalsaPosicion.exe
+C:\Users\DELL\Documents\MetodoDeFalsaPosicion\MetodoDeFalsaPosicion\obj\Debug\MetodoDeFalsaPosicion.pdb
