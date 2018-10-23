@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\Metodos Numericos\MetodoGaussSeidel\MetodoGaussSeidel\bin\Debug\MetodoGaussSeidel.exe.config
+C:\Users\DELL\Documents\Metodos Numericos\MetodoGaussSeidel\MetodoGaussSeidel\bin\Debug\MetodoGaussSeidel.exe
+C:\Users\DELL\Documents\Metodos Numericos\MetodoGaussSeidel\MetodoGaussSeidel\bin\Debug\MetodoGaussSeidel.pdb
+C:\Users\DELL\Documents\Metodos Numericos\MetodoGaussSeidel\MetodoGaussSeidel\obj\Debug\MetodoGaussSeidel.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\Metodos Numericos\MetodoGaussSeidel\MetodoGaussSeidel\obj\Debug\MetodoGaussSeidel.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Metodos Numericos\MetodoGaussSeidel\MetodoGaussSeidel\obj\Debug\MetodoGaussSeidel.exe
+C:\Users\DELL\Documents\Metodos Numericos\MetodoGaussSeidel\MetodoGaussSeidel\obj\Debug\MetodoGaussSeidel.pdb
