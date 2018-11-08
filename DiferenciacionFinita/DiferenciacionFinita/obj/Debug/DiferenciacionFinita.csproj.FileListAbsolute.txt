@@ -1,0 +1,10 @@
+C:\Users\DELL\Documents\Metodos Numericos\DiferenciacionFinita\DiferenciacionFinita\bin\Debug\DiferenciacionFinita.exe.config
+C:\Users\DELL\Documents\Metodos Numericos\DiferenciacionFinita\DiferenciacionFinita\bin\Debug\DiferenciacionFinita.exe
+C:\Users\DELL\Documents\Metodos Numericos\DiferenciacionFinita\DiferenciacionFinita\bin\Debug\DiferenciacionFinita.pdb
+C:\Users\DELL\Documents\Metodos Numericos\DiferenciacionFinita\DiferenciacionFinita\obj\Debug\DiferenciacionFinita.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\Metodos Numericos\DiferenciacionFinita\DiferenciacionFinita\obj\Debug\DiferenciacionFinita.Form1.resources
+C:\Users\DELL\Documents\Metodos Numericos\DiferenciacionFinita\DiferenciacionFinita\obj\Debug\DiferenciacionFinita.Properties.Resources.resources
+C:\Users\DELL\Documents\Metodos Numericos\DiferenciacionFinita\DiferenciacionFinita\obj\Debug\DiferenciacionFinita.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Metodos Numericos\DiferenciacionFinita\DiferenciacionFinita\obj\Debug\DiferenciacionFinita.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Metodos Numericos\DiferenciacionFinita\DiferenciacionFinita\obj\Debug\DiferenciacionFinita.exe
+C:\Users\DELL\Documents\Metodos Numericos\DiferenciacionFinita\DiferenciacionFinita\obj\Debug\DiferenciacionFinita.pdb
